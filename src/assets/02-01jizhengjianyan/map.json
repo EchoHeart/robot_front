@@ -1,0 +1,13 @@
+{
+   "create_time" : "2022/11/11 14:27:03",
+   "free_color_thresh" : 220,
+   "height" : 3474,
+   "md5" : "03599a68f258232f80b056909e1fcfe4",
+   "name" : "02-01jizhengjianyan",
+   "no_information_color" : 127,
+   "occupied_color_thresh" : 50,
+   "resolution" : 0.05000000074505806,
+   "uuid" : "045",
+   "version" : "1.0.0",
+   "width" : 4918
+}

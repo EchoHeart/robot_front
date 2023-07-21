@@ -1,0 +1,13 @@
+{
+   "create_time" : "2023/01/28 17:21:54",
+   "free_color_thresh" : 220,
+   "height" : 707,
+   "md5" : "d9902c80f3422633e591459e3f8f887f",
+   "name" : "07-05",
+   "no_information_color" : 127,
+   "occupied_color_thresh" : 50,
+   "resolution" : 0.05000000074505806,
+   "uuid" : "070",
+   "version" : "1.0.0",
+   "width" : 1343
+}

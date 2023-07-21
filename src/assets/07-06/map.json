@@ -1,0 +1,14 @@
+{
+    "no_information_color": 127,
+    "occupied_color_thresh": 50,
+    "name": "07-06",
+    "update_time": "2022/07/29 11:54:01",
+    "version": "1.0.0",
+    "md5": "4814fa505da170d383544dcb63451270",
+    "width": 2448,
+    "free_color_thresh": 220,
+    "uuid": "050",
+    "height": 952,
+    "resolution": 0.05000000074505806,
+    "create_time": "2022/07/29 11:52:34"
+}

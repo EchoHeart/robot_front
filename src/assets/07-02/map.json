@@ -1,0 +1,14 @@
+{
+    "free_color_thresh": 220,
+    "update_time": "2023/03/10 07:11:49",
+    "width": 938,
+    "resolution": 0.05000000074505806,
+    "no_information_color": 127,
+    "md5": "2b94f90db554cdbdd6a12b082a1013d7",
+    "version": "1.0.0",
+    "name": "07-02",
+    "uuid": "074",
+    "height": 558,
+    "occupied_color_thresh": 50,
+    "create_time": "2023/03/07 17:41:29"
+}

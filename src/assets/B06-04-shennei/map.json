@@ -1,0 +1,14 @@
+{
+    "update_time": "2022/08/30 14:20:57",
+    "create_time": "2022/07/03 10:45:42",
+    "uuid": "0604",
+    "resolution": 0.05000000074505806,
+    "no_information_color": 127,
+    "occupied_color_thresh": 50,
+    "version": "1.0.0",
+    "name": "B06-04-shennei",
+    "height": 528,
+    "width": 666,
+    "md5": "5f0b62c000ec93be97a815fcf39ce3a4",
+    "free_color_thresh": 220
+}

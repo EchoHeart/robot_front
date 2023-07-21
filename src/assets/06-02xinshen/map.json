@@ -1,0 +1,14 @@
+{
+    "md5": "354b519667c8c2483e66e0e0ad0e63bd",
+    "uuid": "043",
+    "version": "1.0.0",
+    "name": "06-02xinshen",
+    "width": 420,
+    "create_time": "2022/08/28 17:17:33",
+    "update_time": "2022/08/28 17:18:45",
+    "height": 880,
+    "free_color_thresh": 220,
+    "no_information_color": 127,
+    "resolution": 0.05000000074505806,
+    "occupied_color_thresh": 50
+}

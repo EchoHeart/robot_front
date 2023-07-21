@@ -1,0 +1,14 @@
+{
+    "height": 758,
+    "version": "1.0.0",
+    "md5": "bb91cc83bd6f97ac243e6db07d71ce0c",
+    "create_time": "2022/12/28 11:46:24",
+    "uuid": "065",
+    "free_color_thresh": 220,
+    "update_time": "2022/12/28 11:49:45",
+    "no_information_color": 127,
+    "occupied_color_thresh": 50,
+    "width": 840,
+    "name": "07-03ICU",
+    "resolution": 0.05000000074505806
+}

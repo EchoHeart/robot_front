@@ -1,0 +1,14 @@
+{
+    "create_time": "2022/07/15 16:43:37",
+    "no_information_color": 127,
+    "width": 800,
+    "resolution": 0.05000000074505806,
+    "update_time": "2022/07/15 16:44:41",
+    "uuid": "042",
+    "height": 595,
+    "occupied_color_thresh": 50,
+    "version": "1.0.0",
+    "name": "06-03zhongzheng",
+    "md5": "3b299c11fb98c4aa38a55e85bc64dd3e",
+    "free_color_thresh": 220
+}

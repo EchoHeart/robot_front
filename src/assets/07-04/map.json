@@ -1,0 +1,14 @@
+{
+    "name": "07-04",
+    "height": 980,
+    "uuid": "063",
+    "occupied_color_thresh": 50,
+    "width": 2372,
+    "free_color_thresh": 220,
+    "resolution": 0.05000000074505806,
+    "no_information_color": 127,
+    "md5": "54a3fc821033d9ca2d033d5203fadbe0",
+    "create_time": "2022/12/19 16:05:01",
+    "version": "1.0.0",
+    "update_time": "2022/12/19 16:05:43"
+}

@@ -1,0 +1,14 @@
+{
+    "create_time": "2022/10/21 21:12:13",
+    "uuid": "0401",
+    "resolution": 0.05000000074505806,
+    "name": "B04-01-menzhen",
+    "update_time": "2022/10/21 21:14:11",
+    "occupied_color_thresh": 50,
+    "height": 940,
+    "version": "1.0.0",
+    "free_color_thresh": 220,
+    "width": 1036,
+    "md5": "c71f7edb7ca399dbb82597819f0a1014",
+    "no_information_color": 127
+}
